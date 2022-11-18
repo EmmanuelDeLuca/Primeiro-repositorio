@@ -1,6 +1,6 @@
 # Primeiro Repositório!
 Olá, Mundo
 
-Realizando testes do meu primeiro repositório
+Realizando testes no meu primeiro repositório
 
 Linha alterada no Readme.md pelo Github
